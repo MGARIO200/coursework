@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">coursework - Matthew J. Garioch, S1713642</string>
+    <string name="dateSelectBtn" translatable="false">Get Update Feed</string>
+    <string name="road" translatable="false">Road</string>
+    <string name="date" translatable="false">Date</string>
+    <string name="start_date" translatable="false">Start Date:</string>
+    <string name="end_date" translatable="false">End Date:</string>
+    <string name="current_roadworks" translatable="false">Current Roadworks</string>
+    <string name="planned_roadworks" translatable="false">Planned Roadworks</string>
+    <string name="current_incidents" translatable="false">Ongoing Incidents</string>
+    <string name="enter_a_road_or_date" translatable="false">Enter a Road or Date</string>
+    <string name="none" translatable="false">None</string>
+</resources>
